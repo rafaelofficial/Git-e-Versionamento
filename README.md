@@ -37,4 +37,6 @@
 | ```git push origin <nome-da-branch>``` | Empurrar/Enviar/Subir as modificações válidas para um repositório remoto. |
 | ```git pull``` | Atualizar a branch do projeto local com as últimas modificações válidas do repositório remoto. |
 | ```git remote``` | Permite criar, ver e excluir conexões com outros repositórios. |
+| ```git fetch``` | Verificar quais são as modificações que estão para serem puxadas do repositório remoto, antes de atualizar a branch local. |
+| ```git diff origin main``` | Verificar quais são as linhas que questão faltando para serem acrecentadas. |
 |
