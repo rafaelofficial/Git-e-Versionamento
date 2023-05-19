@@ -26,6 +26,6 @@
 | -------- | --------- |
 | ```git log``` | Verificar o histórico de todos commits. |
 | ```git log --oneline``` | Verificar o histórico de todos commits feitos, com apenas a primeira linha do log. [Dev Hints - git log cheatsheet: Mais opções para usar o comando 'git log'](https://devhints.io/git-log) |
-| ```git restore``` | Discartar/Remover alterações. |
-|```git restore --staged``` | Discartar/Remover alterações, retornando as modificações/arquivos para a àrea de 'Staged Chandes'. |
-|
+| ```git restore``` | Discartar/Remover as alterações adicionadas. |
+|```git restore --staged``` | Discartar/Remover as alterações adicionadas, retornando essas modificações e/ou arquivos para a àrea de 'Staged Chandes'. |
+| 
