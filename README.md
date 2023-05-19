@@ -29,3 +29,12 @@
 | ```git restore``` | Discartar/Remover as alterações adicionadas. |
 |```git restore --staged``` | Discartar/Remover as alterações adicionadas, retornando essas modificações e/ou arquivos para a àrea de 'Staged Chandes'. |
 | 
+
+### Compartilhando e versionando código com repositórios remotos no Git:
+
+| Camandos | Descrição |
+| -------- | --------- |
+| ```git push origin <nome-da-branch>``` | Empurrar/Enviar/Subir as modificações válidas para um repositório remoto. |
+| ```git pull``` | Atualizar a branch do projeto local com as últimas modificações válidas do repositório remoto. |
+| ```git remote``` | Permite criar, ver e excluir conexões com outros repositórios. |
+|
